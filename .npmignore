@@ -1,0 +1,7 @@
+# Development files — not needed in the published package
+.git/
+.gitignore
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
